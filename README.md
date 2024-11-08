@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Lightsaber](http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png)
-
 0 :bee: 1 
