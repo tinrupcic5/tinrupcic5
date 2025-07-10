@@ -1,5 +1,6 @@
 # 👋 Hello there!
 
+## 🧠 Something About Me
 
 - 🥋 Jiu-Jitsu enthusiast
 - 🛠️ DIY tinkerer with a love for **robotics**, **hardware hacking**, and **AI exploration**  
@@ -8,7 +9,7 @@
 
 ---
 
-🟪🟪⬛🟪 Discipline on the mat, precision in code.  
+🟪🟪⬛🟪 flow. 
 ---
 🌴🌊 Build from anywhere.
 
