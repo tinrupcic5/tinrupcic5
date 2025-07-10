@@ -1,6 +1,5 @@
 # 👋 Hello there!
 
-## 🧠 About Me
 
 - 🥋 Jiu-Jitsu enthusiast
 - 🛠️ DIY tinkerer with a love for **robotics**, **hardware hacking**, and **AI exploration**  
